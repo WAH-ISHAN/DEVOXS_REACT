@@ -2,6 +2,8 @@ DevOxs
 DevOxs is a full-stack cloud services sales platform designed to offer various hosting packages and cloud solutions to customers. Built with ReactJS on the frontend, Node.js (Express) on the backend, and MongoDB for data storage, this application provides a seamless user experience for browsing, selecting, and purchasing cloud hosting packages.
 
 Key Features:
+
+
 Display and manage a variety of cloud service packages and hosting plans
 
 User registration, login, and profile management
