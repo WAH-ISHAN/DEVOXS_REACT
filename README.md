@@ -1,19 +1,29 @@
-# React + Vite
+DevOxs
+DevOxs is a full-stack cloud services sales platform designed to offer various hosting packages and cloud solutions to customers. Built with ReactJS on the frontend, Node.js (Express) on the backend, and MongoDB for data storage, this application provides a seamless user experience for browsing, selecting, and purchasing cloud hosting packages.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features:
+Display and manage a variety of cloud service packages and hosting plans
 
-Currently, two official plugins are available:
+User registration, login, and profile management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Secure order placement and tracking system
 
-## Expanding the ESLint configuration
+Admin panel with CRUD operations for managing services, packages, and orders
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+RESTful API backend built with Express and MongoDB
 
+Responsive and intuitive UI developed with React
 
-Blender img
+Technologies Used:
+Frontend: ReactJS
 
-![untitled](https://github.com/user-attachments/assets/5501a582-c622-4d46-872f-847312b6f836)
-![Screenshot 2025-05-18 030720](https://github.com/user-attachments/assets/ca2fe38f-6e20-4e9e-9b6d-26c57bd12fef)
-![Screenshot 2025-05-18 030713](https://github.com/user-attachments/assets/7725d3b6-4784-44f4-ba32-46fcb61b65c3)
+Backend: Node.js with Express
+
+Database: MongoDB
+
+API communication: Axios
+
+Authentication: JWT (if implemented)
+
+This project aims to simplify the process of selling and managing cloud hosting packages with a scalable and maintainable full-stack solution.
+
